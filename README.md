@@ -1,6 +1,6 @@
 # Portafolio del proyecto
 
-- link del proyecto: <a href= target="_blank">Ir a la tienda</a>
+- link del proyecto: <a href= target="https://manuharari.github.io/AluraGeek/">Ir a la tienda</a>
 
 
 ##  Tecnologias utilizadas:
