@@ -1,6 +1,6 @@
 # Portafolio del proyecto
 
-- link del proyecto: https://manuharari.github.io/AluraGeek/
+- link del proyecto: --> https://manuharari.github.io/AluraGeek/
 
 
 ##  Tecnologias utilizadas:
